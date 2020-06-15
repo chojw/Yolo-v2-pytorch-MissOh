@@ -2,13 +2,7 @@
 
 ## Introduction
 
-Here is my pytorch implementation of the model described in the paper **YOLO9000: Better, Faster, Stronger** [paper](https://arxiv.org/abs/1612.08242). 
-<p align="center">
-  <img src="demo/video.gif"><br/>
-  <i>An example of my model's output.</i>
-</p>
-
-## How to use my code
+## How to use code
 
 With my code, you can:
 * **Train your model from scratch**
